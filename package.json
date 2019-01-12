@@ -1,6 +1,6 @@
 {
   "name": "kiteconnect",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "The official JS client library for the Kite Connect trading APIs",
   "main": "./lib/",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zerodhatech/kiteconnectjs.git"
+    "url": "git+https://github.com/PythonRam/kiteconnectjs.git"
   },
   "keywords": [
     "kiteconnect",
@@ -23,9 +23,9 @@
   "author": "Vivek R",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zerodhatech/kiteconnectjs/issues"
+    "url": "https://github.com/PythonRam/kiteconnectjs/issues"
   },
-  "homepage": "https://github.com/zerodhatech/kiteconnectjs#readme",
+  "homepage": "https://github.com/PythonRam/kiteconnectjs#readme",
   "dependencies": {
     "axios": "^0.17.1",
     "crypto-js": "^3.1.9-1",

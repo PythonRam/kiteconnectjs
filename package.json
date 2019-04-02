@@ -28,6 +28,7 @@
   "homepage": "https://github.com/PythonRam/kiteconnectjs#readme",
   "dependencies": {
     "axios": "^0.17.1",
+    "axios-retry": "^3.1.2",
     "crypto-js": "^3.1.9-1",
     "moment": "^2.24.0",
     "papaparse": "^4.3.6",
